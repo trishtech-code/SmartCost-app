@@ -82,22 +82,22 @@ Tricia Chukwu
 ## App Screenshorts
 
 ### Homepage
-![SmartCost](Ianding Page.png)
+![SmartCost Homepage](smartcost-landing-page.png)
 
-### Business Type selection
-![SmartCost](Business Type Selection.png)
+### Business Type Selection
+![SmartCost Business Type](smartcost-business-type-selection.png)
 
 ### Cost Setup
-![SmartCost](Cost Setup page.png)
+![SmartCost Cost Setup](smartcost-cost-setup-page.png)
 
-### Cost Summary
-![SmartCost](Cost Summary.png)
+### Cost Summary 
+![SmartCost Cost Setup](SmartCost-Cost-Summary.png)
 
-### Pricing Sumarry
-![SmartCost](Pricing Summary.png)
+### Pricing Summary
+![SmartCost Pricing](smartcost-pricing-summary.png)
 
 ### Sales Tracker
-![SmartCost](Sales Tracker.png)
+![SmartCost Sales Tracker](smartcost-sales-tracker.png)
 
 ### Financial Dashboard
-![SmartCost](Final dashboard.png)
+![SmartCost Dashboard](smartcost-final-dashboard.png)
