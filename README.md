@@ -77,5 +77,27 @@ This project was built using AI tools for assistance.
 All product decisions, structure, testing, and final implementation were done by me.
 
 Author
-
 Tricia Chukwu
+
+App Screenshorts
+
+Homepage
+(SmartCost (Ianding Page).png)
+
+Business Type selection
+SmartCost (Business Type Selection).png
+
+Cost Setup
+SmartCost (Cost Setup page).png
+
+Cost Summary
+SmartCost (Cost Summary).png
+
+Pricing Sumarry
+SmartCost (Pricing Summary).png
+
+Sales Tracker
+SmartCost (Sales Tracker).png
+
+Financial Dashboard
+SmartCost (Final dashboard).png
