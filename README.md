@@ -82,6 +82,7 @@ Tricia Chukwu
 App Screenshorts
 
 Homepage
+
 (SmartCost (Ianding Page).png)
 
 Business Type selection
